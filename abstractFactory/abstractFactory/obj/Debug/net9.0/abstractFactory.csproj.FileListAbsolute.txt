@@ -1,0 +1,14 @@
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\bin\Debug\net9.0\abstractFactory.exe
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\bin\Debug\net9.0\abstractFactory.deps.json
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\bin\Debug\net9.0\abstractFactory.runtimeconfig.json
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\bin\Debug\net9.0\abstractFactory.dll
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\bin\Debug\net9.0\abstractFactory.pdb
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\obj\Debug\net9.0\abstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\obj\Debug\net9.0\abstractFactory.AssemblyInfoInputs.cache
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\obj\Debug\net9.0\abstractFactory.AssemblyInfo.cs
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\obj\Debug\net9.0\abstractFactory.csproj.CoreCompileInputs.cache
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\obj\Debug\net9.0\abstractFactory.dll
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\obj\Debug\net9.0\refint\abstractFactory.dll
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\obj\Debug\net9.0\abstractFactory.pdb
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\obj\Debug\net9.0\abstractFactory.genruntimeconfig.cache
+c:\Users\lab_services_student\Desktop\vsPorgrams\abstractFactory\abstractFactory\obj\Debug\net9.0\ref\abstractFactory.dll
